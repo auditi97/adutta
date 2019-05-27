@@ -1,16 +1,15 @@
 # Portfolio Website.
-###### https://vinaysomawat.github.io/
-###### https://vinaysomawat.surge.sh
+###### https://adutta.github.io/
+###### https://adutta.surge.sh
 
 ![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
 ### About me
-* Competitive Programming
-* Web Designing
-* Software Development
-* Android Application
-* Technical Writing
-* Machine Learning
-* Open Source 
+* Obelisk
+* Pro-Eye
+* Harbourfront
+* 911 - Apps
+* See the sea
+* Calih 
 
 ### Counters
 * Course
@@ -20,10 +19,9 @@
 
 ### Skills
 ### Work Experience
-### Recent Blogs
 ### Contact
-* Mail Address
 * Location
+* Email Address
 
 ### Footer
 ------------------------------------------------------------------
